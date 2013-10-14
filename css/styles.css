@@ -1,5 +1,20 @@
 /* Main Navigation */
 
+.container_12 {
+	background: url("../img/woodgrain.png");
+}
+
+#aside1{
+	background: pink;
+}
+
+#aside2{
+	background: lightyellow;
+}
+#main{
+	background: lightblue;
+}
+
 li {
   background: #ffd500;
   display: inline;
